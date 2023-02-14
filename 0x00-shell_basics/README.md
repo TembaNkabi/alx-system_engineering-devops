@@ -1,1 +1,1 @@
-0x00-shell_basics
+This is a readme file on the shell basics directory
